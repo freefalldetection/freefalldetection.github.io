@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://freefalldetection.github.io</link>
+    <atom:link href="http://freefalldetection.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Thu, 19 Jun 2014 16:06:51 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Jun 2014 16:06:51 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Free Fall Detection Introduced!</title>
+      <link>http://freefalldetection.github.io/2014/06/17/Free-Fall-Detection/</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://freefalldetection.github.io/2014/06/17/Free-Fall-Detection</guid>
+      <description>&lt;p&gt;No doubt Xbox as a gaming console is great fun. Kinect makes this even better for game fans out there. But Xbox’s capabilities are not limited to only gaming. There are lots of applications are built recently by using Kinect’s software development kit(SDK). There are various categories when it comes to apply Kinect’s power from health care to design and etc.&lt;/p&gt;
+
+&lt;p&gt;For our project, We decieded to aim to the older people who want to continue his/her medical treatment at home for example, or the babies whose movements are sometimes unpredictable. With this in mind, we implemented our tool to detect the free falling movement that happens anytime. So basically, Free Fall Detector analyzes these and reports/calls the given persons if it is needed.&lt;/p&gt;
+
+&lt;p&gt;In order to minimize the false positives, for example, in rare cases some normal body movements can be filtered as free fall, we implemented a speech tool to our system. Which kindly asks to the person if he/she needs help. By saying “Yes” or not responding at all, FFD directly calls the person specified and sends the images of the falling moment as well.&lt;/p&gt;
+
+&lt;p&gt;The project is still at the early stage and lots of work can be done to improve the usage and functionality. But we are satiffied with the results we got from it and wanted to share our experience with everyone. Since we are just graduated and it is little bit hard to find time to give much more detailed information about the specifications of the working system. But, don’t let this stop you asking questions to us. We would be glad to see people interested!&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for updates.&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
